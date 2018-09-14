@@ -1,11 +1,9 @@
-=======
 # Hidden Gem Atlanta
-### Developed under Codename Order 66
->> This is a GROUP collaboration with:
->> * Nathan Reese
->> * Matthew Marberry
->> * Ian Gornall
->> (aka the Legion of Doom)
+### Developed by The Legion of Doom
+> Legion of Doom is a group collaboration between:
+> * Nathan Reese
+> * Matthew Marberry
+> * Ian Gornall
 
 Hidden Gem Atlanta is a front-end app developed with the purpose of promoting regionally unique businesses and locations.  The app is based on user generated content, where users can register with HGA then submit regionally unique retail businesses, venues, restaurants, or scenic locations.  Once a user chooses a location to submit, they are also able to provide a review and a rating based on 1-5 gems. 
 
@@ -15,8 +13,19 @@ Our app is aimed to help promote small businesses and overlooked locations.  We 
 
 This project requires Firebase Realtime Database, Firebase Auth and google/maps/image search API keys.  If you wish to run it, put your keys in a file named keys.js in the repo directory.  
 
-### What problem motivated this app
+### Problem motivated this app:
 Visitors or new residents of Atlanta may have a difficult time connecting with Atlanta-unique sites and businesses that the locals are passionate about.  We aim to connect these users with these businesses and locations.
+
+### Personal Responsibilities:
+* Graphic Design and Overall Design Structure.
+** Developing color schemes for night and day mode.
+** Creation of the logo and image editing.
+** Creating the design layout.
+** Creation of modal boxes.
+* JavaScript DOM manipulation.
+** Building the DOM from our posts returned by Firebase.
+** Handling modal functionality for post and registration forms.
+** Creating event listeners to launch our JavaScript functions.
 
 ### Technologies Used:
 * Public Use API's for Firebase and Google.

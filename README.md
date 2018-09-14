@@ -18,14 +18,14 @@ Visitors or new residents of Atlanta may have a difficult time connecting with A
 
 ### Personal Responsibilities:
 * Graphic Design and Overall Design Structure.
-** Developing color schemes for night and day mode.
-** Creation of the logo and image editing.
-** Creating the design layout.
-** Creation of modal boxes.
+>* Developing color schemes for night and day mode.
+>* Creation of the logo and image editing.
+>* Creating the design layout.
+>* Creation of modal boxes.
 * JavaScript DOM manipulation.
-** Building the DOM from our posts returned by Firebase.
-** Handling modal functionality for post and registration forms.
-** Creating event listeners to launch our JavaScript functions.
+>* Building the DOM from our posts returned by Firebase.
+>* Handling modal functionality for post and registration forms.
+>* Creating event listeners to launch our JavaScript functions.
 
 ### Technologies Used:
 * Public Use API's for Firebase and Google.

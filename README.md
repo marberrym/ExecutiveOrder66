@@ -2,9 +2,9 @@
 # Hidden Gem Atlanta
 ### Developed under Codename Order 66
 >> This is a GROUP collaboration with:
->> Nathan Reese
->> Matthew Marberry
->> Ian Gornall
+>> * Nathan Reese
+>> * Matthew Marberry
+>> * Ian Gornall
 >> (aka the Legion of Doom)
 
 Hidden Gem Atlanta is a front-end app developed with the purpose of promoting regionally unique businesses and locations.  The app is based on user generated content, where users can register with HGA then submit regionally unique retail businesses, venues, restaurants, or scenic locations.  Once a user chooses a location to submit, they are also able to provide a review and a rating based on 1-5 gems. 

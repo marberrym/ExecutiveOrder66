@@ -1,5 +1,5 @@
 =======
-# Atlanta GEMS (developed under codename: Order 66)
+# Hidden Gem Atlanta (developed under codename: Order 66)
 
 This project is a front end interface to accept a post (a gem) from a user. The gems are stored in firebase, and retrieved and displayed by to the visitor.
 
